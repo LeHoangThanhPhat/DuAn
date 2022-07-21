@@ -6,7 +6,7 @@ Project title: Hair Care Spa
 
 ========> Group 2 <=========
 
-3 collaborators:
+3 collaborators:<br>
                 Le Hoang Thanh Phat (phatlhtts2203009@fpt.edu.vn)<br>
                 Nguyen Tran The Dan (DanNTTTS2203047@fpt.edu.vn)<br>
                 Tran Nguyen Minh Dang (DangTNMTS2203041@fpt.edu.vn)<br>
